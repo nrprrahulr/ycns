@@ -1,6 +1,6 @@
 # 【ChatGPT】如何修复 ChatGPT 访问被拒错误
 
-推荐一个虚拟信用卡开卡平台，包含香港、美国万事达VISA等多种卡头，0月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、Ebay、Shopify、Github、TikTok、Paypal 等各类订阅海淘平台。点击查看详情：[https://www.fomepay.com/](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+
 
 ## 一、前言
 在我们使用 ChatGPT 的过程中，可能会遇到如下问题：
